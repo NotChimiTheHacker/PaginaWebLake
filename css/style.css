@@ -1,6 +1,37 @@
 body{
-background-color: rgba(255, 214, 164, 0.952);
+    background-color: aliceblue;
+    background-image: url("../img/descarga.jfif");
+    background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+color: white;
+}
 
+h1{
+    color: red;
+}
+h3{ color: red;
+}
+h5{ color: red;
+}
 
+.primer-parrafo{color: white;
+font-size: 50px;
+font-family: "Arial";
+font-weight: 300;}
 
+.segundo-parrafo{color: white;
+    font-size: 40px;
+    font-family: "cursive";
+    font-weight: 500;
+}
+
+.galeria{
+    display: flex;
+    border: 2px solid white;
+    overflow-x: scroll;
+ }
+
+ .galeria img{width: 600px;
+height: 300px;
 }
