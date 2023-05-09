@@ -11,16 +11,16 @@ color: white;
     flex-direction: column;
     align-items: center;
 }
-.inicio img{
-    border-radius: 100%;
-    border: 5px solid white;
-}    
+
 .inicio h1{
     font-size: 100px;
     font-family: "Arial";
     font-weight: 700;
 }
-
+.inicio img{
+    border-radius: 100%;
+    border: 5px solid white;
+}    
 h1{ color: red;
     }
     h2{ color: red;
@@ -49,14 +49,15 @@ font-weight: 300;}
     overflow-x: scroll;
 }
 
- .galeria img{width: 600px;
-height: 300px;
+ .galeria img{width: 350px;
+height: 350px;
 }
 nav{
     display: flex;
     justify-content: space-around;
     align-items: center;
     background-color:red;
+    color: black;
 }
 
 nav ul{display: flex;
