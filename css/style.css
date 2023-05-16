@@ -1,6 +1,6 @@
 body{
     background-color: aliceblue;
-    background-image: url("../img/descarga.jfif");
+    background-image: url("../img/FondoFinal2.webp");
     background-repeat: no-repeat;
 background-size: cover;
 background-position: center;
@@ -30,9 +30,9 @@ h3{ color: red;
 h5{ color: red;
 }
 
-.primer-parrafo{color: white;
+.primer-parrafo{color: royalblue;
 font-size: 50px;
-font-family: "Arial";
+font-family: "cursive";
 font-weight: 300;}
 
 .segundo-parrafo{color: white;
